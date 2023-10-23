@@ -1,6 +1,21 @@
 html, body {
+  background-color: black;
   margin: 0;
   padding: 0;
+}
+h1{
+  color:#ffffff;
+  background-color: black;
+  font-family:Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  color: rgb(76, 208, 133);
+  font-family: 'Young Serif', serif;
+  font-size: 30px;
 }
 canvas {
   display: block;
